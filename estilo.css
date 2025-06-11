@@ -1,0 +1,92 @@
+  body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(to bottom, #a8e6ff, #d0f0ff);
+        background-attachment: fixed;
+        color: #003b4f;
+      }
+
+      .header {
+        text-align: center;
+        padding: 4rem 1rem;
+      background-image: url(oceano_maior.jpg);
+      }
+
+      h1 {
+        font-size: 3rem;
+        margin: 0;
+      }
+
+      p {
+        font-size: 1.2rem;
+        margin-top: 1rem;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .ocean-icons {
+        text-align: center;
+        font-size: 2rem;
+        margin-top: 2rem;
+      }
+
+      .ocean-icons span {
+        margin: 0 0.5rem;
+        color: #0077b6;
+      }
+      
+      .fundo2{
+        background-image: url(oceano_maior.jpg);
+      }
+
+      #fonte1{
+          font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .fonte2{
+          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      }
+
+      .temas{
+      font-size: 30px;
+      background-image: url(oceano_maior.jpg);
+      color: white;
+      }
+
+      .paragrafo{
+          margin-left: 25px;
+          font-family:Arial, Helvetica, sans-serif;
+          font-display:30px;
+          font-size: 27px;
+          font-family: Arial, Helvetica, sans-serif;
+          text-align: justify;
+          font-weight: 100;
+      }
+
+      .titulos{
+          font-weight: 900;
+          margin-left: 25px;
+      }
+
+      .img{
+        width: 400px;
+        margin-left: 25px;
+        
+      }
+
+      .escolas{
+        font-size: 20px;
+        font-weight: 200;
+        font-family:Arial, Helvetica, sans-serif
+      }
+
+      .titulo5{
+        font-size: 30px;
+        font-weight: 700;
+      }
+
+      .titulo6{
+        font-size: 30px;
+      }
